@@ -27,8 +27,3 @@
 
 		return;
 	}
-
-	
-	echo seo301r('', $opt = array('html'=>True));
-
-	exit;
